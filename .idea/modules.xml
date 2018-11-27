@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka-consumer-elasticsearch/kafka-consumer-elasticsearch.iml" filepath="$PROJECT_DIR$/kafka-consumer-elasticsearch/kafka-consumer-elasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-producer-twitter/kafka-producer-twitter.iml" filepath="$PROJECT_DIR$/kafka-producer-twitter/kafka-producer-twitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-streams/kafka-streams.iml" filepath="$PROJECT_DIR$/kafka-streams/kafka-streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafkatwitter.iml" filepath="$PROJECT_DIR$/kafkatwitter.iml" />
+    </modules>
+  </component>
+</project>
